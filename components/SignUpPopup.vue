@@ -271,7 +271,7 @@ disabled(){
   align-items: center;
 }
 .img {
-  margin-top: -40px;
+  margin-top: -60px;
   margin-right: -15px;
 }
 .img:hover{
