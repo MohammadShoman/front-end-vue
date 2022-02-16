@@ -74,7 +74,6 @@ export default {
   
 }
 .forgot {
-  margin-top: 20px;
   width: 90%;
   display: flex;
   justify-content: center;

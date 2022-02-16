@@ -39,9 +39,11 @@ body {
   font-weight:bolder;
   margin-top: 20px;
   margin-right: 11.5%;
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
 }
 .login p span{
   font-weight:normal;
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
 }
 .v-application--wrap {
   min-height: 42vh !important;
